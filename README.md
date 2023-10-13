@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @GXBF
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GXBF/GXBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- ❤️This is my Bilibili account --> https://space.bilibili.com/1711131229?spm_id_from=333.1007.0.0
+- 👀 I’m interested in Python Project.
+- 🌱 I’m currently learning PyQt5.
+- 💞️ I’m looking to collaborate on my Email: guixiabaifo2022@outlook.com.
+- 📫 How to reach me: guixiabaifo2022@outlook.com.
+- ❤️This is my Bilibili account --> https://space.bilibili.com/1711131229
+- 👋 嗨，我是@GXBF
+- 👀 我对Python项目感兴趣。
+- 🌱 我目前正在学习 PyQt5。
+- 💞️ 我希望在我的电子邮件：guixiabaifo2022@outlook.com 上进行协作。
+- 📫 如何联系我：guixiabaifo2022@outlook.com。
+- 这是我的哔哩哔哩账号 --❤️> https://space.bilibili.com/1711131229
